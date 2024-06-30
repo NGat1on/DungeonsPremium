@@ -2,10 +2,17 @@ DungeonsPremium
 ===============
 --------------------------------------------------
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <br />
 <p align="center">
-    <a href="http://inkpixel.top:800/icon.png">
-      <img src="icon.png" alt="Logo" width="80" height="80">
+    <a href="https://github.com/NGat1on/DungeonsPremium">
+      <img src="images/icon.png" alt="Logo" width="80" height="80">
     </a>
     <h3 align="center">神话地牢</h3>
     <h6 align="center">(DungeonsPremium)</h6>
