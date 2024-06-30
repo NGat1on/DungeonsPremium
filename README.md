@@ -11,7 +11,7 @@ DungeonsPremium
 
 <br />
 <p align="center">
-    <a href="https://github.com/NGat1on/DungeonsPremium">
+    <a href="https://github.com/NGat1on/DungeonsPremium/">
       <img src="images/icon.png" alt="Logo" width="80" height="80">
     </a>
     <h3 align="center">神话地牢</h3>
@@ -42,8 +42,11 @@ DungeonsPremium
 请先运行一次插件后,在生成的"license.yml"配置文件中的"license"修改为你的许可证,每个人只有一个许可证且绑定机械码。
 
 ### 前置要求
-1.NametagEdit [硬前置]<br />
-2.PlaceholderAPI [软前置]
+- 硬前置
+    - [NametagEdit](https://www.spigotmc.org/resources/nametagedit.3836/)
+    - [HolographicDisplays](https://dev.bukkit.org/projects/holographic-displays)
+- 软前置
+    - [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245)
 
 ### 安装步骤
 1.你需要在"地牢插件售后"的群文件下载"Setup服务端"<br />
