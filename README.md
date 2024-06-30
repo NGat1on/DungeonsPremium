@@ -8,10 +8,10 @@ DungeonsPremium
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+![image](https://github.com/NGat1on/DungeonsPremium/blob/main/image/icon.png)
 
 <br />
 <p align="center">
-    ![image](https://github.com/NGat1on/DungeonsPremium/blob/main/image/icon.png)
     <h3 align="center">神话地牢</h3>
     <h6 align="center">(DungeonsPremium)</h6>
     <p align="center">
