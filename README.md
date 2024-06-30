@@ -11,9 +11,7 @@ DungeonsPremium
 
 <br />
 <p align="center">
-    <a href="https://github.com/NGat1on/DungeonsPremium/">
-      <img src="images/icon.png" alt="Logo" width="80" height="80">
-    </a>
+    ![image](https://github.com/NGat1on/DungeonsPremium/blob/main/image/icon.png)
     <h3 align="center">神话地牢</h3>
     <h6 align="center">(DungeonsPremium)</h6>
     <p align="center">
