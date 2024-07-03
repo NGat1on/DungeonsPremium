@@ -1,17 +1,20 @@
 <div style="display: flex; align-items: center;">
-    <img src="https://img.picui.cn/free/2024/07/03/66855f07cfecd.png" align="left" width="35" height="35" />
+    <img src="https://github.com/NGat1on/DungeonsPremium/blob/main/image/icon.png" align="left" width="35" height="35" />
     <div style="margin-left: 10px;">
         <h3 style="margin: 0;">神话地牢(DungeonsPremium)</h3>
     </div>
 </div>
 
-- - -
-
+<hr>
 <p>
-  <img src="https://img.shields.io/badge/code size-918KB-blue" alt="code size"/>
+  <img src="https://img.shields.io/badge/code size-1.06MB-blue" alt="code size"/>
   <img src="https://img.shields.io/badge/Bukkit-1.12.2-brightgreen" alt="Bukkit"/>
   <img src="https://img.shields.io/badge/Java Class-104-blue" alt="Java"/>
   <img src="https://img.shields.io/badge/Author-念国-orange" alt="Author" />
+  <img src="https://img.shields.io/badge/releases-v1.1.0-blue" alt="releases"/><a href="http://wpa.qq.com/msgrd?v=3&uin=1320510756&site=qq&menu=yes">
+    <img src="https://img.shields.io/badge/Get Plugin-click-brightgreen" alt="click"/>
+</a>
+
 </p>
 
 > 此插件为付费插件<br>
