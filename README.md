@@ -4,7 +4,7 @@
         <h3 style="margin: 0;">神话地牢(DungeonsPremium)</h3>
     </div>
 </div>
-<div style="background:linear-gradient(to left,#FFFFFF,#b6b6b6,#FFFFFF);height:1px;"></div>
+\_\_\_
 
 <p>
   <img src="https://img.shields.io/badge/code size-918KB-blue" alt="code size"/>
