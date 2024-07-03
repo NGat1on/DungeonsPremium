@@ -10,9 +10,9 @@
   <img src="https://img.shields.io/badge/code size-1.06MB-blue" alt="code size"/>
   <img src="https://img.shields.io/badge/Bukkit-1.12.2-brightgreen" alt="Bukkit"/>
   <img src="https://img.shields.io/badge/Java Class-104-blue" alt="Java"/>
-  <img src="https://img.shields.io/badge/Author-念国-orange" alt="Author" />
   <img src="https://img.shields.io/badge/releases-v1.1.0-blue" alt="releases"/><a href="http://wpa.qq.com/msgrd?v=3&uin=1320510756&site=qq&menu=yes">
     <img src="https://img.shields.io/badge/Get Plugin-click-brightgreen" alt="click"/>
+  <img src="https://img.shields.io/badge/Author-念国-orange" alt="Author" />
 </a>
 
 </p>
@@ -132,9 +132,10 @@
 插件版本:1.12
 
 ### 作者
-1320510756@qq.com
-
-BiliBili:念国nation  &ensp; qq:1320510756
+- <img src="https://img.shields.io/badge/Author-念国-orange" alt="Author" /><br>
+- 邮箱 1320510756@qq.com<br>
+- BiliBili:念国nation<br>
+- qq:1320510756
 
 *您也可以在贡献者名单中参看所有参与该项目的开发者。*
 
