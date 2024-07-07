@@ -93,7 +93,7 @@
 > 修复大部分已知Bug<br>
 > 优化指令与菜单<br>
 > 新增Boss及相应事件 <br>
-> 对MySQL与MongoDB数据库的支持 <br>
+> 对~~MySQL~~与MongoDB数据库的支持 <br>
 > 配置文件优化 <br>
 > 改进玩家数据
 </details>
@@ -125,7 +125,7 @@
 4.你可以在Database.yml里修改你的存储方式[默认:YAML]
 
 ### 已支持的数据库
-- [MySQL](https://www.mysql.com/)
+- ~~[MySQL](https://www.mysql.com/)~~
 - [MongoDB](https://www.mongodb.com/)
 
 ### 版本控制
