@@ -120,7 +120,8 @@
 <details>
   <summary>点击此处查看前置关系图</summary>
   <img src="https://github.com/NGat1on/DungeonsPremium/blob/main/image/depend.png" align="left" />
-</details>
+</details> <br>
+
 ### 安装步骤
 1.你需要在"地牢插件售后"的群文件下载"Setup服务端"<br />
 2.将下载好的服务端解压至电脑,并修改插件的许可证<br />
