@@ -96,7 +96,7 @@
 > 对~~MySQL~~与MongoDB数据库的支持 <br>
 > 配置文件优化 <br>
 > 改进玩家数据
-</details>
+</details> <br>
 
 ## 目录
 - [上手指南](#上手指南)
