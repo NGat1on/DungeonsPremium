@@ -24,7 +24,7 @@
 > 💫作者：念国（点击下方文字即可跳转主页）<br>
 > 🌟全平台账号：[GitHub](https://github.com/NGat1on)、[爱发电](https://afdian.net/a/ngat1on)、[哔哩哔哩](https://space.bilibili.com/455695897/)、[QQ](http://wpa.qq.com/msgrd?v=3&uin=1320510756&site=qq&menu=yes)<br>
 > 项目地址：<br>
-> https://github.com/NGat1on/DungeonsPremium <br>
+> https://github.com/NGat1on/SkyBlockPremium <br>
 > 后台地址：<br>
 > http://????????.???:???/
 
@@ -122,6 +122,7 @@
 
 ### 前置要求
 - 硬前置
+  - [CItizens](https://dev.bukkit.org/projects/worldedit/files/2597538)
   - [NametagEdit](https://www.spigotmc.org/resources/nametagedit.3836/)
   - [HolographicDisplays](https://dev.bukkit.org/projects/holographic-displays)
 - 软前置
