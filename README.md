@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-    <img src="https://github.com/NGat1on/DungeonsPremium/blob/main/image/icon.png" align="left" width="35" height="35" />
+    <img src="https://github.com/NGat1on/DungeonsPremium/blob/main/image/icon.png" align="left" width="65" height="35" />
     <div style="margin-left: 10px;">
         <h3 style="margin: 0;">SKYBLOCK(SkyBlockPremium)</h3>
     </div>
