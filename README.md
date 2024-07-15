@@ -7,10 +7,10 @@
 
 <hr>
 <p>
-  <img src="https://img.shields.io/badge/code size-1.06MB-blue" alt="code size"/>
+  <img src="https://img.shields.io/badge/code size-1.16MB-blue" alt="code size"/>
   <img src="https://img.shields.io/badge/Bukkit-1.12.2-brightgreen" alt="Bukkit"/>
-  <img src="https://img.shields.io/badge/Java Class-104-blue" alt="Java"/>
-  <img src="https://img.shields.io/badge/releases-v1.1.0-blue" alt="releases"/><a href="http://wpa.qq.com/msgrd?v=3&uin=1320510756&site=qq&menu=yes">
+  <img src="https://img.shields.io/badge/Java Class-114-blue" alt="Java"/>
+  <img src="https://img.shields.io/badge/releases-v1.1.1-blue" alt="releases"/><a href="http://wpa.qq.com/msgrd?v=3&uin=1320510756&site=qq&menu=yes">
     <img src="https://img.shields.io/badge/Get Plugin-click-brightgreen" alt="click"/>
   <img src="https://img.shields.io/badge/Author-念国-orange" alt="Author" />
 </a>
