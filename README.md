@@ -17,7 +17,7 @@
 
 </p>
 
-[https://img.shields.io/badge/Bukkit-1.12.2-brightgreen](https://bstats.org/signatures/bukkit/SkyBlockPremium.svg)
+<img src="https://bstats.org/signatures/bukkit/SkyBlockPremium.svg" alt="Plugin Stats"/>
 
 > 此插件为付费插件<br>
 > 购买后提供:售后服务，插件及Setup服务端请在售后群下载<br>
