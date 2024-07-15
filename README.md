@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/NGat1on/DungeonsPremium/blob/main/image/icon.png" align="left" width="35" height="35" />
     <div style="margin-left: 10px;">
-        <h3 style="margin: 0;">神话地牢(DungeonsPremium)</h3>
+        <h3 style="margin: 0;">SKYBLOCK(SkyBlockPremium)</h3>
     </div>
 </div>
 
@@ -16,6 +16,8 @@
 </a>
 
 </p>
+
+[https://img.shields.io/badge/Bukkit-1.12.2-brightgreen](https://bstats.org/signatures/bukkit/SkyBlockPremium.svg)
 
 > 此插件为付费插件<br>
 > 购买后提供:售后服务，插件及Setup服务端请在售后群下载<br>
@@ -96,6 +98,13 @@
 > 对~~MySQL~~与MongoDB数据库的支持 <br>
 > 配置文件优化 <br>
 > 改进玩家数据
+> 插件改名:SkyBlockPremium
+> 新增SkyBlock系统
+> 空岛银行
+> COOP系统
+> 空岛群系管理
+> 空岛边界管理
+
 </details> <br>
 
 ## 目录
